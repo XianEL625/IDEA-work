@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/03_BusinessSplit/03_BusinessSplit.iml" filepath="$PROJECT_DIR$/03_BusinessSplit/03_BusinessSplit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_Singleton/09_Singleton.iml" filepath="$PROJECT_DIR$/09_Singleton/09_Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/SystemStruction.iml" filepath="$PROJECT_DIR$/SystemStruction.iml" />
     </modules>
   </component>
