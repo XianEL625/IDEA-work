@@ -5,7 +5,7 @@
          version="3.1">
     <servlet>
         <servlet-name>myservlet</servlet-name>
-        <servlet-class>com.gzu.MyServlet</servlet-class>
+        <servlet-class>com.gzu.Servlet.MyServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>myservlet</servlet-name>

@@ -1,4 +1,4 @@
-package com.gzu;
+package com.gzu.Servlet;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
