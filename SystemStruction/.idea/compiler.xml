@@ -9,6 +9,7 @@
         <module name="02_LogicSplit" />
         <module name="SimpleFactory" />
         <module name="08_Strategy" />
+        <module name="05_Decrator" />
         <module name="01_SimpleCalculate" />
       </profile>
     </annotationProcessing>
